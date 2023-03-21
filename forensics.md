@@ -3,6 +3,7 @@
 2. stegslove  
 3. [Steganography Online
 ](https://stylesuxx.github.io/steganography/)
+4. zsteg
 
 # for file  
 1. strings  
