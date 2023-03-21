@@ -5,6 +5,7 @@
 ](https://stylesuxx.github.io/steganography/)
 4. zsteg
 5. [photo-forensics](https://29a.ch/photo-forensics/#forensic-magnifier)
+6. [stegonline](https://stegonline.georgeom.net/upload)
 
 # for file  
 1. strings  
